@@ -1,32 +1,6 @@
 # DesignPattern
 从0开始深入理解设计模式的原理及应用
 
-![1564624505513](C:\Users\kevin\AppData\Roaming\Typora\typora-user-images\1564624505513.png)
-
-类图说明：
-
-第一行：GeelyClass 类名，斜体表示抽象类
-
-第二行：
-
-+name：String  +代表public，类型String
-
--age：-代表private
-
-#weight：#代表protected
-
-~height：~代表默认
-
-+sex：下划线表示static属性
-
-第三行：
-
-+study()：斜体代表抽象方法
-
-+openMac()：boolean  :boolean表示方法返回值为boolean
-
-![1564624596020](C:\Users\kevin\AppData\Roaming\Typora\typora-user-images\1564624596020.png)
-
 # 1.设计原则
 
 ## [1.1.开闭原则](https://github.com/bydjxc/DesignPattern/blob/master/src/main/java/com/jack/design/principle/openclose/%E5%BC%80%E9%97%AD%E5%8E%9F%E5%88%99.md)
