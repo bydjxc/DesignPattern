@@ -14,6 +14,6 @@ public class Test {
 
         Course icourse = new JavaDiscountCourse(96, "Java设计模式精讲", 399d);
         JavaDiscountCourse course = (JavaDiscountCourse) icourse;
-        System.out.println("课程编号:"+course.getId()+" 课程名称:"+course.getName()+" 课程原价:"+course.getOriginalPrice()+" 课程折后价:"+course.getPrice());
+        System.out.println("课程编号:"+course.getId()+" 课程名称:"+course.getName()+" 课程原价:"+course.getPrice()+" 课程折后价:"+course.getPrice());
     }
 }
