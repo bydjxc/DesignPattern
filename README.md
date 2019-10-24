@@ -323,7 +323,7 @@ public class CourseTest {
 
 再来看看logback 中工厂方法模式的应用，看看类图就可以了，如下图所示。
 
-![1571818584053](D:\mygithub\DesignPattern\assets\1571818584053.png)
+![1571818584053](assets/1571818584053.png)
 
 工厂方法模式适用于以下场景：
 （1）创建对象需要大量重复的代码。
@@ -363,7 +363,7 @@ public class CourseTest {
 
 #### 产品等级结构和产品族：
 
-![1571885362015](D:\mygithub\DesignPattern\assets\1571885362015.png)
+![1571885362015](assets/1571885362015.png)
 
 如上图所示
 
